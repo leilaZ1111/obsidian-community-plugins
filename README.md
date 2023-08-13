@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/leilaZ1111/obsidian-community-plugins/blob/main/Obsidian_Community_Plugins.png" alt="banner that says Obsidian Community Plugins">
+<img src="https://github.com/leilaZ1111/obsidian-community-plugins/blob/main/Obsidian_community_plugins_banner.png" alt="banner that says Obsidian Community Plugins">
 </div>
 
 # All the Obsidian Community Plugins I use (as of August 2023):
