@@ -187,7 +187,10 @@ The **Janitor** plugin helps you keep your vault under control, by possibly, if 
 # MORE TO COME...
 I have my eyes on more plugins that look very promising, including plugins powered by AI, but as these things go, it's a work in progress. I'll do my best to keep this list updated in the hope that it will inspire you, to build or improve your own Obsidian Vault to your liking 🙂
 
+
+
 <div align="center">
+	
 	!([gif url](https://giphy.com/embed/0KnRoGqX9LhQtYxpyL))
 </div>
 
