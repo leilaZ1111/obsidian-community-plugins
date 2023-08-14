@@ -45,6 +45,9 @@ The **Obsidian Hover Editor** plugin enhances the core "Page Preview" plugin by 
 <br>
 # POWERFUL PLUGINS: THE MIGHTY COMBO
 The two following plugins are, for good reason, among the most downloaded plugins and really take Obsidian to the next level. It doesn't hurt that they can be advantageously combined.
+
+Both of these plugins have a lot of resources and documentation. You'll find them on their Obsidian plugin marketplace. For **Dataview**, Sergio has a great beginner-friendly [playlist](https://www.youtube.com/watch?v=an8iBB_8ShE&list=PL7oLu8NfQd86ZT19TSjZHreCztRnsY2VV) to help you get on board. 
+
 ## 1. Dataview 🔥
 Provided that you add a YALM header to your note or inline front matter within your note, **Dataview** allows you to create dynamic and customizable views of your notes and data stored within Obsidian, essentially turning your notes into a database. It has a learning curve but its cool features include: 
 <br>
