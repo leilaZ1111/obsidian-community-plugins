@@ -2,19 +2,23 @@
 <img src="https://github.com/leilaZ1111/obsidian-community-plugins/blob/main/Obsidian_community_plugins_banner.png" alt="banner that says Obsidian Community Plugins">
 </div>
 
-# All the Obsidian Community Plugins I use (as of August 2023):
-Since plugin development and availability can change rapidly, make sure to visit the official [Obsidian community forums](https://obsidian.md/community), GitHub repositories, or the Obsidian plugin marketplace to find the most up-to-date information about all these plugins or any other plugins you might be interested in. These sources should provide you with details about the plugin's features, installation instructions, and usage guidelines.
+# Welcome to My Obsidian Community Plugins Collection (As of August 2023)
+Hello there! This README contains a curated list of the Obsidian Community Plugins that I've found incredibly useful in enhancing my Obsidian experience. This collection was assembled with the intention of sharing it with my fellow Obsidian enthusiasts to help elevate our knowledge management journeys. [Obsidian](https://obsidian.md/) is all about customization, and these plugins have been carefully selected to boost your workflow, enrich your note-taking, and add new dimensions to your knowledge management journey.
 
-If you would like to discover Obsidian Community Plugins in a friendly way, these Youtubers are doing a great job! 
-Make sure to check them out 😉
+Please note that plugin development and updates can happen swiftly, so it's essential to stay up-to-date. For the latest information about these plugins or to discover more, visit the official [Obsidian community](https://obsidian.md/community) forums, GitHub repositories, or the Obsidian plugin marketplace. These sources provide comprehensive details, installation instructions, and usage guidelines for each plugin.
+
+Additionally, if you're looking for a friendly introduction to Obsidian Community Plugins, I recommend checking out some talented YouTubers who have dedicated playlists to Obsidian:
 :
-- 🤴 **Sergio**: one of the best among the Obsidian ambassadors' kings on YouTube. Make sure to check his Obsidian playlist [here](https://www.youtube.com/watch?v=ctetnQfSdfM&list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx). 
-- 👸 **Nicole Van Der Hoeven**:  Nicole is the next-level Obsidian queen and has probably more videos on the subject than you care to check. You can find her Obsidian playlist [here](https://www.youtube.com/watch?v=3pt6_srUZ7U&list=PL-1Nqb2waX4VSVgC4iGhl98cte2Y_OsqN).
-- 🤓 **Christian Lempa**: not solely focused on Obsidian but his two videos on the subject are worth watching:
+- **Sergio**: One of the best among the Obsidian ambassadors on YouTube. Make sure to check his Obsidian playlist [here](https://www.youtube.com/watch?v=ctetnQfSdfM&list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx). 
+- **Nicole Van Der Hoeven**:  Nicole is the next-level Obsidian queen with a plethora of videos on the subject. Discover her Obsidian playlist [here](https://www.youtube.com/watch?v=3pt6_srUZ7U&list=PL-1Nqb2waX4VSVgC4iGhl98cte2Y_OsqN).
+- **Christian Lempa**: While not exclusively focused on Obsidian, his insightful videos are worth watching:
 	- [You all NEED these Obsidian community plugins](https://www.youtube.com/watch?v=Yzi1o-BH6QQ&t=399s)
 	- [Use Obsidian (BEST Markdown editor) for note taking and tech docs!](https://www.youtube.com/watch?v=cBzc5r-FNW0)
 
-Now, here is the list, in different sections that might be arbitrary, of all the plugins I'm currently using:
+
+Now, let's dive into the plugins that have shaped my Obsidian experience. Feel free to explore, install, and tailor your Obsidian vault to your liking. Remember, this collection is a reflection of my journey, and your perfect set of plugins might be just around the corner.
+
+Happy note taking! 😁
 <br>
 <br>
 # PLUGINS FOR WORKFLOW OPTIMISATION
@@ -194,6 +198,7 @@ I have my eyes on more plugins that look very promising, including plugins power
 ![](https://github.com/leilaZ1111/obsidian-community-plugins/blob/main/giphy.gif)
 
 </div>
+
 
 
 
